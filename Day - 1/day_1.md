@@ -377,7 +377,7 @@ $ crontab -e
 
 To assess your understanding of the basic Linux commands covered in this document, we've prepared a short quiz. This quiz will help you evaluate your knowledge and readiness for practical tasks.
 
-**[Click here to take the quiz and test your knowledge!](#)**
+**[Click here to take the quiz and test your knowledge!](https://docs.google.com/forms/d/e/1FAIpQLSfTCeHQiXCs0fZ_X9oOxw-QuWRjukyOOJkhkaLg3X7j5D07XA/viewform?usp=sf_link)**
 
 Feel free to complete the quiz at your own pace. Your results will help you identify areas where you might need further review and practice.
 
