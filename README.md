@@ -29,3 +29,9 @@ We welcome contributions! Feel free to add new commands, improve explanations, o
 Whether you're just starting with Linux or looking to refresh your knowledge, this repository is here to help you become more confident and proficient with Linux commands. Dive in and enjoy the learning process!
 
 ---
+
+##### Author: Shiva Balan K
+
+---
+
+This README file is designed to provide a comprehensive and engaging guide for anyone looking to master programming concepts. It follows a similar structure and tone to the reference README, ensuring a consistent and professional presentation.
